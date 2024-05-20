@@ -1,0 +1,1 @@
+>on vas faire un site en html brut pour les recette utilisant ce qu'on a vu en html depuis le debut pour the odin project
